@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_nearby"
+        android:title="Mostrar estabelecimento recomendado"/>
+    <item
+        android:id="@+id/menu_list"
+        android:title="Listar estabelecimentos recomendados"/>
+    <item
+        android:id="@+id/menu_logout"
+        android:title="@string/menu_sair"/>
+</menu>

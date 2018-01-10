@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "594967024838",
+    "firebase_url": "https://gmapsfood.firebaseio.com",
+    "project_id": "gmapsfood",
+    "storage_bucket": "gmapsfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594967024838:android:919713172a8ccf03",
+        "android_client_info": {
+          "package_name": "com.example.fkmichiura.gmapsfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594967024838-kkkptmhtiogs88bf6cgmf8j9sagdi8v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCClT0kBuR-7JVkd_AKBTYOUXgxCb_AH2o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
